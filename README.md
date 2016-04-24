@@ -15,3 +15,4 @@ Android学习资料整理
 * [Android Studio系列教程三--快捷键 ](http://stormzhang.com/devtools/2014/12/09/android-studio-tutorial3/)
 * [Android Studio系列教程四--Gradle基础 ](http://stormzhang.com/devtools/2014/12/18/android-studio-tutorial4/)
 * [Android Studio系列教程五--Gradle命令详解与导入第三方包 ](http://stormzhang.com/devtools/2015/01/05/android-studio-tutorial5/)
+* [Android Studio系列教程六--Gradle多渠道打包 ](http://stormzhang.com/devtools/2015/01/15/android-studio-tutorial6/)
