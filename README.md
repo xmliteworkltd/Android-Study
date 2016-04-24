@@ -6,6 +6,7 @@ Android学习资料整理
 - [入门](#入门)
   - [入门资料](#入门资料)
   - [基础](#基础)
+- [开源项目]($开源项目)
 - [工具](#工具)
   - [Android Studio](#android-studio)
   
@@ -15,8 +16,16 @@ Android学习资料整理
 ## 入门资料
 
 * [Android学习之路](http://stormzhang.com/android/2014/07/07/learn-android-from-rookie/)
+* [Android入门基础：从这里开始](http://hukai.me/android-training-course-in-chinese/basics/index.html)
+* [如何自学Android编程](http://stormzhang.com/android/2016/01/21/learn-android-byself/)
 
 ## 基础
+
+* [Android 学习资料收集](https://github.com/Freelander/Android_Data)
+
+# 开源项目
+
+* [Android 开源项目分类汇总](https://github.com/Trinea/android-open-project)
 
 # 工具
 
