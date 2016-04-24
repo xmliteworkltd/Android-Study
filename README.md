@@ -3,9 +3,20 @@ Android学习资料整理
 
 ## 目录
 
+- [入门](#入门)
+  - [入门资料](#入门资料)
+  - [基础](#基础)
 - [工具](#工具)
   - [Android Studio](#android-studio)
   
+
+# 入门
+
+## 入门资料
+
+* [Android学习之路](http://stormzhang.com/android/2014/07/07/learn-android-from-rookie/)
+
+## 基础
 
 # 工具
 
