@@ -18,6 +18,7 @@ Android学习资料整理
 * [Android学习之路](http://stormzhang.com/android/2014/07/07/learn-android-from-rookie/)
 * [Android入门基础：从这里开始](http://hukai.me/android-training-course-in-chinese/basics/index.html)
 * [如何自学Android编程](http://stormzhang.com/android/2016/01/21/learn-android-byself/)
+* [如何自学Android？](https://zhuanlan.zhihu.com/p/20708611)
 
 ## 基础
 
